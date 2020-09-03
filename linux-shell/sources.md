@@ -1,0 +1,3 @@
+
+* https://www.learnshell.org/
+* https://www.tutorialspoint.com/unix/shell_scripting.htm
